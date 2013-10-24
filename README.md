@@ -15,13 +15,12 @@ start with washington? virginia?
 ## client-side
 
 ### D3.js
-* + rendering open source community, tutorials, documentation, etc
-* + client-side robust 
-* + pub-sub for data updating
-
-* - no out-of-the-box graphing capabilities
-* - no ability to hide data
-* - requires modern web-browsers (no IE support)
+* ++ rendering open source community, tutorials, documentation, etc
+* ++ client-side robust 
+* ++ pub-sub for data updating
+* -- no out-of-the-box graphing capabilities
+* -- no ability to hide data
+* -- requires modern web-browsers (no IE support)
 
 ### client-side JS frameworks
 * ember
